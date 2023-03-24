@@ -26,10 +26,10 @@
 
 ```console
 # clone the repo
-$ git clone https://github.com/sherlock-project/sherlock.git
+$ git clone https://github.com/JHacker-JMusicology/account-finder
 
 # change the working directory to sherlock
-$ cd sherlock
+$ cd account-finder
 
 # install the requirements
 $ python3 -m pip install -r requirements.txt
